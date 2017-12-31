@@ -1,0 +1,157 @@
+# Entry removed Sat Dec 30 17:34:28 2017
+# Reason: ERROR: oBllGsz-6Os: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oBllGsz-6Os
+
+################################
+
+# Entry removed Sat Dec 30 17:53:02 2017
+# Reason: ERROR: 4PvN7ujfj2w: YouTube said: "Chicago Feelin' ..."
+#          This video is no longer available due to a copyright claim by a third party.
+https://youtube.com/watch?v=4PvN7ujfj2w
+
+################################
+
+# Entry removed Sat Dec 30 17:53:34 2017
+# Reason: ERROR: 2OlAx4Dok38: YouTube said: "Van Halen - Hot fo..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=2OlAx4Dok38
+
+################################
+
+# Entry removed Sat Dec 30 17:54:34 2017
+# Reason: ERROR: qqszqHKIqEk: YouTube said: "Van Halen - P..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=qqszqHKIqEk
+
+################################
+
+# Entry removed Sat Dec 30 17:55:41 2017
+# Reason: ERROR: bbw1r32MJpY: YouTube said: "If You Could See M..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=bbw1r32MJpY
+
+################################
+
+# Entry removed Sat Dec 30 17:56:03 2017
+# Reason: ERROR: quMlRhlVR3I: YouTube said: This video contains content from Believe Music, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=quMlRhlVR3I
+
+################################
+
+# Entry removed Sat Dec 30 17:56:31 2017
+# Reason: ERROR: 8NsJ84YV1oA: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=8NsJ84YV1oA
+
+################################
+
+# Entry removed Sat Dec 30 17:58:17 2017
+# Reason: ERROR: Red3R17FlUQ: YouTube said: This video does not exist.
+https://youtube.com/watch?v=Red3R17FlUQ
+
+################################
+
+# Entry removed Sat Dec 30 17:58:50 2017
+# Reason: ERROR: ZDwotNLyz10: YouTube said: This video contains content from Warner Chappell, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=ZDwotNLyz10
+
+################################
+
+# Entry removed Sat Dec 30 18:19:31 2017
+# Reason: ERROR: ZtaRRcoTQ4E: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=ZtaRRcoTQ4E
+
+################################
+
+# Entry removed Sat Dec 30 19:08:44 2017
+# Reason: ERROR: vpEwKz6YCEs: YouTube said: "Heat Of The Moment ..."
+#          This video is no longer available due to a copyright claim by a third party.
+https://youtube.com/watch?v=vpEwKz6YCEs
+
+################################
+
+# Entry removed Sat Dec 30 19:11:54 2017
+# Reason: ERROR: fUja-wrQVgs: YouTube said: This video does not exist.
+https://youtube.com/watch?v=fUja-wrQVgs
+
+################################
+
+# Entry removed Sat Dec 30 19:33:34 2017
+# Reason: ERROR: 3kOWGBDJALY: YouTube said: This video contains content from Warner Chappell, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=3kOWGBDJALY
+
+################################
+
+# Entry removed Sat Dec 30 19:53:52 2017
+# Reason: ERROR: rG9myp90oM4: YouTube said: This video is not available.
+https://youtube.com/watch?v=rG9myp90oM4
+
+################################
+
+# Entry removed Sat Dec 30 20:33:40 2017
+# Reason: ERROR: oiWzM3zUvF8: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oiWzM3zUvF8
+
+################################
+
+# Entry removed Sat Dec 30 20:45:54 2017
+# Reason: ERROR: N_Q5LnUXiNA: YouTube said: This video contains content from Koch Entertainment, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=N_Q5LnUXiNA
+
+################################
+
+# Entry removed Sat Dec 30 20:46:17 2017
+# Reason: ERROR: The uploader has not made this video available in your country.
+#          You might want to use a VPN or a proxy server (with --proxy) to workaround.
+https://youtube.com/watch?v=3x5eFVWfcVA
+
+################################
+
+# Entry removed Sat Dec 30 20:49:55 2017
+# Reason: ERROR: BWrtrK1Q2EQ: YouTube said: This video contains content from Warner Chappell, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=BWrtrK1Q2EQ
+
+################################
+
+# Entry removed Sat Dec 30 20:57:04 2017
+# Reason: ERROR: C8uAc-oCtR8: YouTube said: This video does not exist.
+https://youtube.com/watch?v=C8uAc-oCtR8
+
+################################
+
+# Entry removed Sat Dec 30 21:16:46 2017
+# Reason: ERROR: HNuqVGGNr04: YouTube said: "ATB feat. Melissa Loretta -..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=HNuqVGGNr04
+
+################################
+
+# Entry removed Sat Dec 30 21:25:04 2017
+# Reason: ERROR: gju4CyAsMhI: YouTube said: This video does not exist.
+https://youtube.com/watch?v=gju4CyAsMhI
+
+################################
+
+# Entry removed Sat Dec 30 21:45:23 2017
+# Reason: ERROR: s4nWy8pmIM4: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=s4nWy8pmIM4
+
+################################
+
+# Entry removed Sat Dec 30 22:48:07 2017
+# Reason: ERROR: FhZ-yTIXXYI: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=FhZ-yTIXXYI
+
+################################
+
+# Entry removed Sat Dec 30 23:08:54 2017
+# Reason: ERROR: B1Bi1c9LmhU: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=B1Bi1c9LmhU
+
+################################
+
+# Entry removed Sun Dec 31 14:43:16 2017
+# Reason: ERROR: 9IPBuQI1GG0: YouTube said: This video does not exist.
+https://youtube.com/watch?v=9IPBuQI1GG0
+
+################################
+
